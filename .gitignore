@@ -1,0 +1,4 @@
+*.log
+!ahmed.log
+node_packs/
+test1.txt
